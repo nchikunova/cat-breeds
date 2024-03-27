@@ -1,21 +1,21 @@
 {
-  "name": "cats-breeds",
+  "name": "cat-breeds",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://nchikunova.github.io/cats-breeds",
+  "homepage": "https://nchikunova.github.io/cat-breeds",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cats-breeds/"
+    "build": "parcel build src/*.html --public-url /cat-breeds/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nchikunova/cats-breeds.git"
+    "url": "git+https://github.com/nchikunova/cat-breeds.git"
   },
   "keywords": [],
   "author": "Nataliia Chykunova <nchikunova86@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nchikunova/cats-breeds/issues"
+    "url": "https://github.com/nchikunova/cat-breeds/issues"
   },
   "dependencies": {
     "axios": "^1.6.8",
